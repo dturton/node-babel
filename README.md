@@ -1,4 +1,4 @@
-# Example Node Server w/ Babel
+# Node.js project with babel
 
 ### Getting Started
 
